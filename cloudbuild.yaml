@@ -1,5 +1,5 @@
 steps:
   - name: "gcr.io/cloud-builders/docker"
-    args: ["build", "-t", "gcr.io/${_PROJECT_ID}/meuprojetopython", "."]
+    args: ["build", "-t", "gcr.io/${_PROJECT_ID}/gothic-imprint-393915", "."]
 images:
-  - "gcr.io/${_PROJECT_ID/meuprojetopython"
+  - "gcr.io/${_PROJECT_ID/gothic-imprint-393915"
